@@ -1,1 +1,3 @@
-# go-network-examples
+# go-network-examples 🐙
+
+Network programming examples in Go
